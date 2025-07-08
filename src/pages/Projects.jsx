@@ -17,7 +17,7 @@ const Projects = () => {
       description:
         "A personal portfolio to showcase my skills, experience, and projects with smooth navigation and responsive design.",
       tech: ["React", "Tailwind", "Html","CSS","JavaScript"],
-      github: "https://github.com/ragasree123",
+      github: "https://github.com/ragasree123/reactportfolio",
       live: "https://ragasree-thatipamula.netlify.app/",
       image: "/project2.png", // Replace with project image
     },
@@ -26,8 +26,8 @@ const Projects = () => {
       description:
         "FocusFlow is a sleek, animated productivity app designed to help stay focused and organized using the Pomodoro technique. Built with React and styled using Tailwind CSS",
       tech: ["React", "Tailwind", "Html","CSS","JavaScript"],
-      github: "https://github.com/ragasree123/reactportfolio",
-      live: "https://ragasree-thatipamula.netlify.app/",
+      github: "https://github.com/ragasree123/FocusFlow",
+      live: "https://appfocusflow.netlify.app/",
       image: "/project3.png", // Replace with project image
     },
   ];
