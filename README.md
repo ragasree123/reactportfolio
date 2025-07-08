@@ -1,6 +1,7 @@
 🌟 Ragasree Thatipamula – Developer Portfolio
 
 Welcome to my personal developer portfolio website!  
+
 This is a modern, responsive portfolio built using React and Tailwind CSS to showcase my skills, projects, and contact information.
 
 🔗 Live Site:https://ragasree-thatipamula.netlify.app
@@ -25,16 +26,21 @@ This is a modern, responsive portfolio built using React and Tailwind CSS to sho
 🚀 Getting Started
 Clone the Repository
 git clone https://github.com/your-username/your-repositoryname.git
+
 cd your-repositoryname
+
 npm install
+
 npm run dev
 
 Visit http://localhost:3000 to view the app.
 
 🧪 Build for Production
+
 npm run build
 
 🌐 Deploying on Netlify
+
 Push your code to GitHub
 
 Go to https://netlify.com and log in
