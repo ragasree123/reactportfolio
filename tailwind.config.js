@@ -2,7 +2,6 @@
 export default {
   content: ["./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
-<<<<<<< HEAD
     extend: {
       colors: {
         ivory: {
@@ -36,9 +35,6 @@ export default {
         widest: '0.25em',
       },
     },
-=======
-    extend: {},
->>>>>>> 9d747945cd50aaabee7fb8cddc5d0a4a4b97ab2b
   },
   plugins: [],
 }
