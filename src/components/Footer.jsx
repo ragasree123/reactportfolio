@@ -9,7 +9,7 @@ const Footer = () => {
           {/* Brand */}
           <div className="md:col-span-7">
             <h2 className="font-serif text-3xl md:text-4xl mb-4">
-              Ragasree<span className="text-gold">.</span>
+              Ragasree Thatipamula
             </h2>
             <p className="text-ivory-100/70 max-w-md leading-relaxed">
               Data analyst with an analytics and insights focus &mdash; building
@@ -90,7 +90,6 @@ const Footer = () => {
 
         <div className="flex flex-col md:flex-row justify-between items-center gap-4 pt-8 text-xs uppercase tracking-[0.2em] text-ivory-100/40">
           <p>&copy; {new Date().getFullYear()} Ragasree Thatipamula</p>
-          <p>Designed &amp; built with care</p>
         </div>
       </div>
     </footer>
