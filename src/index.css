@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Inter:wght@300;400;500;600;700&display=swap');
 
 @tailwind base;
@@ -53,4 +54,11 @@
   .btn-outline {
     @apply inline-flex items-center justify-center gap-2 px-7 py-3 border border-ink text-ink text-sm tracking-[0.15em] uppercase font-medium transition-all duration-300 hover:bg-ink hover:text-ivory;
   }
+=======
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html {
+  scroll-behavior: smooth;
+>>>>>>> 9d747945cd50aaabee7fb8cddc5d0a4a4b97ab2b
 }

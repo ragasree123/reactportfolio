@@ -4,7 +4,11 @@ Welcome to my personal developer portfolio website!
 
 This is a modern, responsive portfolio built using React and Tailwind CSS to showcase my skills, projects, and contact information.
 
+<<<<<<< HEAD
 🔗 Live Site:https://ragasree-thatipamula.netlify.app
+=======
+🔗 Live Site:https://ragasree.netlify.app/
+>>>>>>> 9d747945cd50aaabee7fb8cddc5d0a4a4b97ab2b
 
 ✨ Features
 
