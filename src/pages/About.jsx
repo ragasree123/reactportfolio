@@ -30,13 +30,15 @@ const About = () => {
         {/* Right — prose */}
         <div className="md:col-span-8 space-y-6 text-ink-700 text-base md:text-lg leading-relaxed">
           <p>
-            I&rsquo;m Ragasree &mdash; a data analytics professional with six
-            years of experience turning raw, complex data into insights that
-            actually move the needle. I&rsquo;m drawn to the analytical
-            infrastructure behind every confident decision: KPI dashboards,
-            portfolio performance reports, forecasting models, and the
-            executive-ready narratives that answer the &ldquo;so what?&rdquo;
-            before it&rsquo;s asked.
+            I&rsquo;m Ragasree &mdash; an{' '}
+            <span className="italic text-ink">analyst by trade</span>, a{' '}
+            <span className="italic text-ink">storyteller by habit</span>. Six
+            years of turning raw, complex data into insights that actually
+            move the needle &mdash; drawn to the analytical infrastructure
+            behind every confident decision: KPI dashboards, portfolio
+            performance reports, forecasting models, and the executive-ready
+            narratives that answer the &ldquo;so what?&rdquo; before
+            it&rsquo;s asked.
           </p>
           <p>
             My background spans insurance, healthcare, and technology &mdash;

@@ -39,7 +39,9 @@ const Home = () => {
               sequence={[
                 'Data Analyst',
                 2000,
-                'Insights Storyteller',
+                'BI Developer',
+                2000,
+                'Reporting Analyst',
                 2000,
               ]}
               wrapper="span"
